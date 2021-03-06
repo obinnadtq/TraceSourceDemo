@@ -1,0 +1,6 @@
+C:\Users\OIS001\source\repos\LogTracing\LogTracing\bin\Debug\LogTracing.exe.config
+C:\Users\OIS001\source\repos\LogTracing\LogTracing\bin\Debug\LogTracing.exe
+C:\Users\OIS001\source\repos\LogTracing\LogTracing\bin\Debug\LogTracing.pdb
+C:\Users\OIS001\source\repos\LogTracing\LogTracing\obj\Debug\LogTracing.csprojAssemblyReference.cache
+C:\Users\OIS001\source\repos\LogTracing\LogTracing\obj\Debug\LogTracing.exe
+C:\Users\OIS001\source\repos\LogTracing\LogTracing\obj\Debug\LogTracing.pdb
